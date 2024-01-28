@@ -1,0 +1,14 @@
+button{
+    font-family: 'helvettica neue',helvetlica,sans-serif;
+    letter-spacing: ipx;
+    text-transform: uppercase;
+    text-align: center;
+    border: 2px solid #ffe81c;
+    background: 2px rgb(255, 232, 28);
+    color: rgba(0,0,200,0,6);
+    box-shadow: 1px, 1px,2px rgba(0,0,200,0,4);
+    border-radius: 10px;
+    padding: 3px 10px;
+    display: inline-block;
+    cursor: pointer;
+}
